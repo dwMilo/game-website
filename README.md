@@ -2,5 +2,5 @@
 
 Making a website for games 
 
-Wbsite-sdls.vercel.app
+https://wbsite-sdls.vercel.app/
 
